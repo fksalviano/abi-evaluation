@@ -1,0 +1,15 @@
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.deps.json
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.pdb
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Common.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Common.pdb
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.De.3B55B412.Up2Date
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/refint/Ambev.DeveloperEvaluation.Domain.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Domain.pdb
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Domain/obj/Debug/net8.0/ref/Ambev.DeveloperEvaluation.Domain.dll

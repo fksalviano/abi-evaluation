@@ -1,0 +1,12 @@
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Common.deps.json
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Common.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/bin/Debug/net8.0/Ambev.DeveloperEvaluation.Common.pdb
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.csproj.AssemblyReference.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.AssemblyInfoInputs.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.AssemblyInfo.cs
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.csproj.CoreCompileInputs.cache
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/refint/Ambev.DeveloperEvaluation.Common.dll
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Common.pdb
+/home/fabio/repos/abi-evaluation/src/Ambev.DeveloperEvaluation.Common/obj/Debug/net8.0/ref/Ambev.DeveloperEvaluation.Common.dll
