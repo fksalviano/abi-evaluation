@@ -22,6 +22,29 @@ public class DefaultContext : DbContext
     {
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Customer>().HasData(
+            new Customer
+            {
+                Id = Guid.Parse("c6ff1565-9064-4be9-a631-828176562796"),
+                Name = "Test Customer"
+            }
+        );
+
+        modelBuilder.Entity<Product>().HasData(
+            new Product
+            {
+                Id =  Guid.Parse("fe16b993-69eb-4df7-8166-154f68a542d8"),
+                Name = "Test Product 1",
+                Price = 10
+            },
+            new Product
+            {
+                Id =  Guid.Parse("2aac3826-809b-48cc-8786-a66300cab35f"),
+                Name = "Test Product 2",
+                Price = 50
+            }
+        );
     }
 }
 public class YourDbContextFactory : IDesignTimeDbContextFactory<DefaultContext>
