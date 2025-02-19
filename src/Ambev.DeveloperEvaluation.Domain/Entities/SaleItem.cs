@@ -92,10 +92,10 @@ public class SaleItem : BaseEntity
 
         var percentDiscount = this switch
         {
-            { Quantity: < 4 } => 0,
-            { Quantity: >= 4  and < 10 } => 10,
-            { Quantity: >= 10 and < 20 } => 20,
-            _ => 0
+            { Quantity: < 4 } => 0m,
+            { Quantity: >= 4  and < 10 } => 10m,
+            { Quantity: >= 10 and < 20 } => 20m,
+            _ => 0m
         };
         
         if (percentDiscount == 0)
