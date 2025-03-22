@@ -4,6 +4,7 @@ using Ambev.DeveloperEvaluation.Domain.Repositories;
 using Ambev.DeveloperEvaluation.Unit.Domain;
 using AutoMapper;
 using FluentAssertions;
+using Microsoft.Extensions.Logging;
 using NSubstitute;
 using Xunit;
 
@@ -18,6 +19,7 @@ public class CreateSaleHandlerTests
     private readonly ICustomerRepository _customerRepository;
     private readonly IProductRepository _productRepository;
     private readonly IMapper _mapper;
+    private readonly ILogger<CreateSaleHandler> _logger;
     private readonly CreateSaleHandler _handler;
 
     /// <summary>
@@ -30,7 +32,8 @@ public class CreateSaleHandlerTests
         _customerRepository = Substitute.For<ICustomerRepository>();
         _productRepository = Substitute.For<IProductRepository>();
         _mapper = Substitute.For<IMapper>();
-        _handler = new CreateSaleHandler(_saleRepository, _customerRepository, _productRepository, _mapper);
+        _logger = Substitute.For<ILogger<CreateSaleHandler>>();
+        _handler = new CreateSaleHandler(_saleRepository, _customerRepository, _productRepository, _mapper, _logger);
     }
 
     /// <summary>
@@ -88,6 +91,8 @@ public class CreateSaleHandlerTests
         //Then
         createdSaleResult.Should().NotBeNull();
         createdSaleResult.Id.Should().Be(sale.Id);
+        createdSaleResult.Should().BeEquivalentTo(result);
+
         await _saleRepository.Received(1).CreateAsync(Arg.Any<Sale>(), Arg.Any<CancellationToken>());
     }
 }

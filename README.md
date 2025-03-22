@@ -28,6 +28,14 @@ Data access with ORM Entity Framework Core. Using PostgreSQL Database.
 - **CreateSaleHandlerTests**:
     Unit Tests for the CreateSaleHandler.
 
+- **DeleteSaleHandlerTests**:
+    Unit Tests for the DeleteSaleHandler.
+
+- **GetSaleHandlerTests**:
+    Unit Tests for the GetSaleHandler.
+
+- **GetSalesHandlerTests**:
+    Unit Tests for the GetSalesHandler.
 
 ## Configuration
 
